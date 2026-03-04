@@ -1,6 +1,8 @@
-Today I have learnt few things about how LLM actually work.. before understanding how to test AI models, it is mandatory to understand how AI models actually functions or some foundational AI concepts.. so that we can effectively test the AI models.
+I usually make study notes inorder to recall, remember what i learn to comfort myself
 
-I usually make study notes inorder to recall, remember what i learn to comfort myself in understanding concepts
+Also I always feel writing notes boost my confidence in understanding the concepts
+
+So today I have learnt few things about how LLM actually work.. before understanding how to test AI models, it is mandatory to understand how AI models actually functions or some foundational AI concepts.. so that we can effectively test the AI models.
 
 LLM has no memory
 -------------------
